@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingLeft="16dp"
+    android:orientation="vertical" >
+
+    <TextView
+        android:id="@+id/text_view_main_001"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textStyle="bold"
+        android:textColor="@android:color/black"
+        android:textSize="20sp"
+        android:layout_marginTop="25sp"
+        android:text="tonythompsoncmu@gmail.com"/>
+
+    <TextView
+        android:id="@+id/text_view_sub_001"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="@android:color/black"
+        android:textSize="12sp"
+        android:text="Free Account"/>
+
+    <TextView
+        android:id="@+id/text_view_main_002"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textStyle="bold"
+        android:textColor="@android:color/black"
+        android:textSize="20sp"
+        android:layout_marginTop="25sp"
+        android:text="Upgrade To Premium"/>
+
+    <TextView
+        android:id="@+id/text_view_main_003"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textStyle="bold"
+        android:textColor="@android:color/black"
+        android:textSize="20sp"
+        android:layout_marginTop="25sp"
+        android:text="Change Password"/>
+
+    <TextView
+        android:id="@+id/text_view_main_004"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textStyle="bold"
+        android:textColor="@android:color/black"
+        android:textSize="20sp"
+        android:layout_marginTop="25sp"
+        android:text="Current Usage"/>
+
+    <TextView
+        android:id="@+id/text_view_sub_002"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="@android:color/black"
+        android:textSize="12sp"
+        android:text="6262 of 101000 items.You could upgrade to premium for more items or invite your friend to get rewarded"/>
+
+    <TextView
+        android:id="@+id/text_view_main_005"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textStyle="bold"
+        android:textColor="@android:color/black"
+        android:textSize="20sp"
+        android:layout_marginTop="25sp"
+        android:text="Invite code"/>
+
+    <TextView
+        android:id="@+id/text_view_sub_003"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="@android:color/black"
+        android:textSize="12sp"
+        android:text="71116121"/>
+
+    <TextView
+        android:id="@+id/text_view_sub_004"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="@android:color/black"
+        android:textSize="12sp"
+        android:layout_marginTop="25sp"
+        android:text="Both you and your friend will get an extra 100 notes items whenever your friend signs up with your own unique invite code"/>
+
+</LinearLayout>
